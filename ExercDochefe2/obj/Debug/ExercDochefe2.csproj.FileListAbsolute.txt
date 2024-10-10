@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\obj\Debug\ExercDochefe2.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\obj\Debug\ExercDochefe2.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\bin\Debug\ExercDochefe2.exe.config
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\bin\Debug\ExercDochefe2.exe
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\bin\Debug\ExercDochefe2.pdb
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\obj\Debug\ExercDochefe2.exe
+C:\Users\T-GAMER\Desktop\CursoC#\Primeirospassos\ExercDochefe2\ExercDochefe2\obj\Debug\ExercDochefe2.pdb
